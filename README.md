@@ -8,6 +8,8 @@
         \/\/          \/     \/     \/          \/     \/     \/                 \/                              
 ```
 <br><hr>
+f2p genshin player who didn't get Ayaka on any of her banners :(
+<br><hr>
 [![Veemo-9785's GitHub stats](https://github-readme-stats.vercel.app/api?username=Veemo-9785)](https://github.com/anuraghazra/github-readme-stats)
 <br><hr>
 I know python, the web trio, C#, Java, and my personal favourite, typescript (as you can see here).
