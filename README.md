@@ -6,4 +6,5 @@ I know python, the web trio, C#, Java, and my personal favourite, typescript (as
 <br><hr>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Veemo-9785)](https://github.com/anuraghazra/github-readme-stats)
 <br><hr>
-![snake gif](https://github.com/Ayaka-Simp/Ayaka-Simp/blob/output/github-contribution-grid-snake.gif)
+![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
+![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
