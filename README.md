@@ -2,9 +2,10 @@
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;– Me
 <br><hr>
+These are my immaculate stats that can't be beaten by anyone
 [![Osager's stats](https://github-readme-stats.vercel.app/api?username=hotaru67)](https://github.com/anuraghazra/github-readme-stats)
 <br><hr>
-I know python, the web trio, C#, Java, and my personal favourite, typescript (as you can see here).
+I know python, the web trio, C#, Java, a little bit of C, typescript (my favourite), ~~and whatever language is used to talk to my friends who act like robots~~.
 <!-- <br><hr> -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hotaru67)](https://github.com/anuraghazra/github-readme-stats)
 <br><hr>
